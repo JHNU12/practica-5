@@ -1,0 +1,7 @@
+C:\Users\pelon\documents\visual studio 2010\Projects\practica 5\practica 5\bin\Debug\practica 5.exe
+C:\Users\pelon\documents\visual studio 2010\Projects\practica 5\practica 5\bin\Debug\practica 5.pdb
+C:\Users\pelon\documents\visual studio 2010\Projects\practica 5\practica 5\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pelon\documents\visual studio 2010\Projects\practica 5\practica 5\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pelon\documents\visual studio 2010\Projects\practica 5\practica 5\obj\x86\Debug\practica 5.csproj.GenerateResource.Cache
+C:\Users\pelon\documents\visual studio 2010\Projects\practica 5\practica 5\obj\x86\Debug\practica 5.exe
+C:\Users\pelon\documents\visual studio 2010\Projects\practica 5\practica 5\obj\x86\Debug\practica 5.pdb
